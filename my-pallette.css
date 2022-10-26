@@ -1,0 +1,22 @@
+/* CSS HEX */
+:root {
+--cool-grey: #8693abff;
+--beau-blue: #bdd4e7ff;
+--raisin-black: #212227ff;
+--cadet: #637074ff;
+--cadet-blue-crayola: #aab9cfff;
+}
+
+.my-background {
+    background-color: var(--beau-blue);
+}
+
+.my-header {
+    background-color: var(--raisin-black);
+    padding-left: 10pt; padding-right: 10pt;
+}
+
+.my-text-light {
+    color: var(--cadet-blue-crayola);
+}
+
